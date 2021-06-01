@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\adams\\Desktop\\AllBatchFiles\\06012021_BatchFiles\\AdamSepulvedaP0\\HelloWorldProgram\\HelloWorldProgram.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\adams\\Desktop\\AllBatchFiles\\06012021_BatchFiles\\AdamSepulvedaP0\\HelloWorldProgram\\HelloWorldProgram.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\adams\\Desktop\\AllBatchFiles\\06012021_BatchFiles\\AdamSepulvedaP0\\HelloWorldProgram\\HelloWorldProgram.csproj",
+        "projectName": "HelloWorldProgram",
+        "projectPath": "C:\\Users\\adams\\Desktop\\AllBatchFiles\\06012021_BatchFiles\\AdamSepulvedaP0\\HelloWorldProgram\\HelloWorldProgram.csproj",
+        "packagesPath": "C:\\Users\\adams\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adams\\Desktop\\AllBatchFiles\\06012021_BatchFiles\\AdamSepulvedaP0\\HelloWorldProgram\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adams\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
