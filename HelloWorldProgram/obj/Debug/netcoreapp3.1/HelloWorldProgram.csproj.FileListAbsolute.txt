@@ -1,0 +1,11 @@
+C:\Users\adams\Desktop\AllBatchFiles\06012021_BatchFiles\AdamSepulvedaP0\HelloWorldProgram\bin\Debug\netcoreapp3.1\HelloWorldProgram.exe
+C:\Users\adams\Desktop\AllBatchFiles\06012021_BatchFiles\AdamSepulvedaP0\HelloWorldProgram\bin\Debug\netcoreapp3.1\HelloWorldProgram.deps.json
+C:\Users\adams\Desktop\AllBatchFiles\06012021_BatchFiles\AdamSepulvedaP0\HelloWorldProgram\bin\Debug\netcoreapp3.1\HelloWorldProgram.runtimeconfig.json
+C:\Users\adams\Desktop\AllBatchFiles\06012021_BatchFiles\AdamSepulvedaP0\HelloWorldProgram\bin\Debug\netcoreapp3.1\HelloWorldProgram.runtimeconfig.dev.json
+C:\Users\adams\Desktop\AllBatchFiles\06012021_BatchFiles\AdamSepulvedaP0\HelloWorldProgram\bin\Debug\netcoreapp3.1\HelloWorldProgram.dll
+C:\Users\adams\Desktop\AllBatchFiles\06012021_BatchFiles\AdamSepulvedaP0\HelloWorldProgram\bin\Debug\netcoreapp3.1\HelloWorldProgram.pdb
+C:\Users\adams\Desktop\AllBatchFiles\06012021_BatchFiles\AdamSepulvedaP0\HelloWorldProgram\obj\Debug\netcoreapp3.1\HelloWorldProgram.csprojAssemblyReference.cache
+C:\Users\adams\Desktop\AllBatchFiles\06012021_BatchFiles\AdamSepulvedaP0\HelloWorldProgram\obj\Debug\netcoreapp3.1\HelloWorldProgram.csproj.CoreCompileInputs.cache
+C:\Users\adams\Desktop\AllBatchFiles\06012021_BatchFiles\AdamSepulvedaP0\HelloWorldProgram\obj\Debug\netcoreapp3.1\HelloWorldProgram.dll
+C:\Users\adams\Desktop\AllBatchFiles\06012021_BatchFiles\AdamSepulvedaP0\HelloWorldProgram\obj\Debug\netcoreapp3.1\HelloWorldProgram.pdb
+C:\Users\adams\Desktop\AllBatchFiles\06012021_BatchFiles\AdamSepulvedaP0\HelloWorldProgram\obj\Debug\netcoreapp3.1\HelloWorldProgram.genruntimeconfig.cache
